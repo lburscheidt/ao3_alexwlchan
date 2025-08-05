@@ -17,13 +17,13 @@ long_description = codecs.open(README, encoding='utf-8').read()
 
 
 setup(
-    name='ao3',
+    name='ao3_stats_api',
     version='0.2.0',
-    description='A Python API for scraping AO3 (the Archive of Our Own)',
+    description='A Python API for getting statistics and metadata on fanworks in AO3 (the Archive of Our Own)',
     long_description=long_description,
-    url='https://github.com/alexwlchan/ao3',
-    author='Alex Chan',
-    author_email='alex@alexwlchan.net',
+    url='https://github.com/lburscheidt/ao3_alexwlchan',
+    author='L Burscheidt',
+    author_email='lisaburscheidt@gmail.com',
     license='MIT',
 
     # See https://pypi.python.org/pypi?%3Aaction=list_classifiers
